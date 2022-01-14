@@ -1,0 +1,252 @@
+2020/01/01: Bought at 32346.6 and sold at 32178.6 at time: 09:47 for a profit/loss of =========-168.0
+2020/01/02: Bought at 32239.3 and sold at 32443.8 at time: 15:33 for a profit/loss of =========204.5
+2020/01/03: Short Sold at 32227.8 and bought at 32069.3 at time: 15:33 for a profit/loss of ===158.5
+2020/01/06: Short Sold at 31512.5 and bought at 31237.2 at time: 15:33 for a profit/loss of ===275.2999999999993
+2020/01/07: Bought at 31839.6 and sold at 31668.9 at time: 10:07 for a profit/loss of =========-170.6999999999971
+2020/01/08: Bought at 31102.6 and sold at 31373.7 at time: 15:32 for a profit/loss of =========271.1000000000022
+2020/01/09: Bought at 31888.2 and sold at 32092.4 at time: 15:33 for a profit/loss of =========204.20000000000073
+2020/01/10: Short Sold at 32124.3 and bought at 32135.8 at time: 09:34 for a profit/loss of ===-11.5
+2020/01/14: Short Sold at 32010.3 and bought at 32049.5 at time: 11:02 for a profit/loss of ===-39.20000000000073
+2020/01/15: Short Sold at 31797.3 and bought at 31824.9 at time: 15:33 for a profit/loss of ===-27.600000000002183
+2020/01/16: Bought at 31982.4 and sold at 31806.6 at time: 10:30 for a profit/loss of =========-175.8000000000029
+2020/01/17: Bought at 31621.1 and sold at 31590.7 at time: 15:33 for a profit/loss of =========-30.399999999997817
+2020/01/20: Short Sold at 31569.6 and bought at 31080.7 at time: 15:33 for a profit/loss of ===488.8999999999978
+2020/01/21: Bought at 31076.0 and sold at 30920.5 at time: 10:53 for a profit/loss of =========-155.5
+2020/01/22: Short Sold at 30983.0 and bought at 30701.4 at time: 15:33 for a profit/loss of ===281.59999999999854
+2020/01/23: Bought at 30896.8 and sold at 30738.7 at time: 11:10 for a profit/loss of =========-158.09999999999854
+2020/01/24: Bought at 31115.6 and sold at 31241.8 at time: 15:33 for a profit/loss of =========126.20000000000073
+2020/01/27: Bought at 31131.8 and sold at 30973.8 at time: 13:41 for a profit/loss of =========-158.0
+2020/01/28: Bought at 30982.2 and sold at 30827.2 at time: 10:31 for a profit/loss of =========-155.0
+2020/01/29: Short Sold at 30872.9 and bought at 30877.0 at time: 15:33 for a profit/loss of ===-4.099999999998545
+2020/01/30: Short Sold at 30693.8 and bought at 30647.4 at time: 15:33 for a profit/loss of ===46.39999999999782
+2020/01/31: Short Sold at 30835.4 and bought at 30833.6 at time: 15:33 for a profit/loss of ===1.8000000000029104
+2020/02/01: Bought at 30751.3 and sold at 30559.0 at time: 12:54 for a profit/loss of =========-192.29999999999927
+2020/02/03: Short Sold at 29647.1 and bought at 30023.3 at time: 15:34 for a profit/loss of ===-376.2000000000007
+2020/02/04: Bought at 30322.7 and sold at 30686.7 at time: 15:33 for a profit/loss of =========364.0
+2020/02/05: Bought at 30835.3 and sold at 30669.9 at time: 12:01 for a profit/loss of =========-165.39999999999782
+2020/02/06: Short Sold at 31007.3 and bought at 31009.9 at time: 09:32 for a profit/loss of ===-2.600000000002183
+2020/02/07: Short Sold at 31128.4 and bought at 31138.8 at time: 10:27 for a profit/loss of ===-10.399999999997817
+2020/02/10: Short Sold at 31044.5 and bought at 31054.0 at time: 09:32 for a profit/loss of ===-9.5
+2020/02/11: Bought at 31408.7 and sold at 31300.6 at time: 15:33 for a profit/loss of =========-108.10000000000218
+2020/02/12: Bought at 31572.9 and sold at 31492.9 at time: 15:33 for a profit/loss of =========-80.0
+2020/02/13: Short Sold at 31376.4 and bought at 31230.3 at time: 15:33 for a profit/loss of ===146.10000000000218
+2020/02/14: Bought at 31427.1 and sold at 31268.9 at time: 10:44 for a profit/loss of =========-158.1999999999971
+2020/02/17: Short Sold at 30630.5 and bought at 30680.7 at time: 15:33 for a profit/loss of ===-50.20000000000073
+2020/02/18: Short Sold at 30455.4 and bought at 30562.5 at time: 15:33 for a profit/loss of ===-107.09999999999854
+2020/02/19: Short Sold at 30720.1 and bought at 30838.2 at time: 15:34 for a profit/loss of ===-118.10000000000218
+2020/02/20: Bought at 30940.8 and sold at 30942.8 at time: 15:33 for a profit/loss of =========2.0
+2020/02/24: Bought at 30691.8 and sold at 30523.9 at time: 14:27 for a profit/loss of =========-167.89999999999782
+2020/02/25: Short Sold at 30335.6 and bought at 30432.7 at time: 15:33 for a profit/loss of ===-97.10000000000218
+2020/02/26: Short Sold at 30177.6 and bought at 30306.8 at time: 15:33 for a profit/loss of ===-129.20000000000073
+2020/02/27: Short Sold at 30079.1 and bought at 30187.0 at time: 15:33 for a profit/loss of ===-107.90000000000146
+2020/02/28: Short Sold at 29407.3 and bought at 29147.2 at time: 15:33 for a profit/loss of ===260.09999999999854
+2020/03/02: Short Sold at 29265.1 and bought at 28868.4 at time: 15:32 for a profit/loss of ===396.6999999999971
+2020/03/03: Short Sold at 28935.0 and bought at 29177.1 at time: 15:32 for a profit/loss of ===-242.09999999999854
+2020/03/04: Short Sold at 28942.1 and bought at 28653.7 at time: 15:34 for a profit/loss of ===288.3999999999978
+2020/03/05: Short Sold at 28592.4 and bought at 28815.3 at time: 15:33 for a profit/loss of ===-222.89999999999782
+2020/03/06: Bought at 27800.4 and sold at 27657.7 at time: 10:05 for a profit/loss of =========-142.70000000000073
+2020/03/09: Short Sold at 26809.1 and bought at 26462.6 at time: 15:33 for a profit/loss of ===346.5
+2020/03/12: Short Sold at 24727.3 and bought at 23971.2 at time: 15:33 for a profit/loss of ===756.0999999999985
+2020/03/13: Short Sold at 21351.7 and bought at 25166.4 at time: 15:35 for a profit/loss of ===-3814.7000000000007
+2020/03/16: Short Sold at 23466.3 and bought at 23101.2 at time: 15:34 for a profit/loss of ===365.09999999999854
+2020/03/17: Bought at 23439.0 and sold at 23300.9 at time: 09:57 for a profit/loss of =========-138.09999999999854
+2020/03/18: Short Sold at 21894.1 and bought at 20580.2 at time: 15:33 for a profit/loss of ===1313.8999999999978
+2020/03/19: Bought at 19513.0 and sold at 19371.8 at time: 11:04 for a profit/loss of =========-141.20000000000073
+2020/03/20: Short Sold at 19391.3 and bought at 19660.1 at time: 09:42 for a profit/loss of ===-268.7999999999993
+2020/03/23: Short Sold at 18277.6 and bought at 16917.7 at time: 15:34 for a profit/loss of ===1359.8999999999978
+2020/03/24: Short Sold at 17094.5 and bought at 17107.3 at time: 15:33 for a profit/loss of ===-12.799999999999272
+2020/03/25: Short Sold at 16721.9 and bought at 18481.1 at time: 15:34 for a profit/loss of ===-1759.199999999997
+2020/03/26: Bought at 19052.7 and sold at 18895.8 at time: 09:32 for a profit/loss of =========-156.90000000000146
+2020/03/27: Bought at 21287.4 and sold at 21174.5 at time: 09:37 for a profit/loss of =========-112.90000000000146
+2020/03/30: Bought at 19476.4 and sold at 19362.6 at time: 10:18 for a profit/loss of =========-113.80000000000291
+2020/03/31: Short Sold at 18846.3 and bought at 19144.0 at time: 15:33 for a profit/loss of ===-297.7000000000007
+2020/04/01: Short Sold at 18754.1 and bought at 18208.3 at time: 15:33 for a profit/loss of ===545.7999999999993
+2020/04/03: Short Sold at 17511.6 and bought at 17249.3 at time: 15:33 for a profit/loss of ===262.2999999999993
+2020/04/07: Short Sold at 18084.8 and bought at 19062.5 at time: 15:34 for a profit/loss of ===-977.7000000000007
+2020/04/08: Bought at 18780.9 and sold at 18686.5 at time: 09:34 for a profit/loss of =========-94.40000000000146
+2020/04/09: Bought at 19716.8 and sold at 19608.2 at time: 09:43 for a profit/loss of =========-108.59999999999854
+2020/04/13: Short Sold at 19469.7 and bought at 19853.7 at time: 11:41 for a profit/loss of ===-384.0
+2020/04/15: Short Sold at 19776.6 and bought at 19821.1 at time: 09:35 for a profit/loss of ===-44.5
+2020/04/16: Bought at 19009.4 and sold at 18914.1 at time: 09:51 for a profit/loss of =========-95.30000000000291
+2020/04/17: Short Sold at 20217.8 and bought at 20258.4 at time: 09:44 for a profit/loss of ===-40.60000000000218
+2020/04/20: Short Sold at 20712.2 and bought at 20730.5 at time: 09:41 for a profit/loss of ===-18.299999999999272
+2020/04/21: Short Sold at 19569.2 and bought at 19596.9 at time: 10:43 for a profit/loss of ===-27.700000000000728
+2020/04/22: Short Sold at 19117.4 and bought at 19125.1 at time: 09:43 for a profit/loss of ===-7.69999999999709
+2020/04/23: Bought at 19916.1 and sold at 20267.9 at time: 15:33 for a profit/loss of =========351.8000000000029
+2020/04/24: Short Sold at 19558.4 and bought at 19586.7 at time: 15:33 for a profit/loss of ===-28.299999999999272
+2020/04/27: Bought at 20013.6 and sold at 19907.2 at time: 09:49 for a profit/loss of =========-106.39999999999782
+2020/04/28: Short Sold at 20349.6 and bought at 20350.6 at time: 09:44 for a profit/loss of ===-1.0
+2020/04/29: Bought at 20734.7 and sold at 20623.9 at time: 10:37 for a profit/loss of =========-110.79999999999927
+2020/04/30: Bought at 21799.8 and sold at 21675.7 at time: 12:53 for a profit/loss of =========-124.09999999999854
+2020/05/04: Short Sold at 20147.3 and bought at 19743.8 at time: 15:33 for a profit/loss of ===403.5
+2020/05/05: Short Sold at 19982.8 and bought at 19271.8 at time: 15:33 for a profit/loss of ===711.0
+2020/05/06: Short Sold at 18957.1 and bought at 19694.6 at time: 15:33 for a profit/loss of ===-737.5
+2020/05/07: Bought at 19667.1 and sold at 19558.4 at time: 10:26 for a profit/loss of =========-108.69999999999709
+2020/05/08: Bought at 19944.3 and sold at 19840.4 at time: 09:52 for a profit/loss of =========-103.89999999999782
+2020/05/11: Short Sold at 19503.4 and bought at 18950.5 at time: 15:33 for a profit/loss of ===552.9000000000015
+2020/05/12: Short Sold at 18505.9 and bought at 18862.8 at time: 15:33 for a profit/loss of ===-356.8999999999978
+2020/05/13: Short Sold at 19716.6 and bought at 19634.9 at time: 15:33 for a profit/loss of ===81.69999999999709
+2020/05/14: Bought at 19359.0 and sold at 19260.8 at time: 09:54 for a profit/loss of =========-98.20000000000073
+2020/05/15: Short Sold at 18782.3 and bought at 18833.9 at time: 15:33 for a profit/loss of ===-51.60000000000218
+2020/05/18: Short Sold at 18343.9 and bought at 17573.2 at time: 15:33 for a profit/loss of ===770.7000000000007
+2020/05/19: Short Sold at 17616.4 and bought at 17486.3 at time: 15:33 for a profit/loss of ===130.10000000000218
+2020/05/20: Bought at 17738.7 and sold at 17642.8 at time: 10:08 for a profit/loss of =========-95.90000000000146
+2020/05/21: Bought at 18075.7 and sold at 17977.4 at time: 12:38 for a profit/loss of =========-98.29999999999927
+2020/05/22: Bought at 17763.1 and sold at 17631.2 at time: 10:07 for a profit/loss of =========-131.89999999999782
+2020/05/26: Short Sold at 17487.1 and bought at 17440.3 at time: 15:33 for a profit/loss of ===46.79999999999927
+2020/05/27: Short Sold at 17566.3 and bought at 17851.2 at time: 10:44 for a profit/loss of ===-284.90000000000146
+2020/05/28: Bought at 19114.3 and sold at 19169.8 at time: 15:33 for a profit/loss of =========55.5
+2020/05/29: Short Sold at 18751.8 and bought at 19210.7 at time: 10:42 for a profit/loss of ===-458.90000000000146
+2020/06/01: Bought at 20090.2 and sold at 19977.8 at time: 13:39 for a profit/loss of =========-112.40000000000146
+2020/06/02: Bought at 20190.2 and sold at 20068.7 at time: 10:16 for a profit/loss of =========-121.5
+2020/06/03: Bought at 21245.9 and sold at 21134.4 at time: 09:39 for a profit/loss of =========-111.5
+2020/06/04: Short Sold at 20862.1 and bought at 20390.4 at time: 15:33 for a profit/loss of ===471.6999999999971
+2020/06/05: Bought at 20753.2 and sold at 20628.3 at time: 10:08 for a profit/loss of =========-124.90000000000146
+2020/06/08: Bought at 21807.4 and sold at 21675.7 at time: 09:33 for a profit/loss of =========-131.70000000000073
+2020/06/09: Short Sold at 21073.6 and bought at 20724.9 at time: 15:33 for a profit/loss of ===348.6999999999971
+2020/06/10: Bought at 20949.3 and sold at 20819.9 at time: 09:43 for a profit/loss of =========-129.39999999999782
+2020/06/11: Bought at 21190.4 and sold at 21069.0 at time: 10:37 for a profit/loss of =========-121.40000000000146
+2020/06/12: Bought at 19943.1 and sold at 19841.3 at time: 09:47 for a profit/loss of =========-101.79999999999927
+2020/06/15: Short Sold at 20182.7 and bought at 20186.9 at time: 09:32 for a profit/loss of ===-4.200000000000728
+2020/06/16: Short Sold at 20442.8 and bought at 20456.9 at time: 09:32 for a profit/loss of ===-14.100000000002183
+2020/06/17: Bought at 20151.6 and sold at 20201.8 at time: 15:33 for a profit/loss of =========50.20000000000073
+2020/06/18: Short Sold at 20030.3 and bought at 20319.1 at time: 10:16 for a profit/loss of ===-288.7999999999993
+2020/06/19: Short Sold at 20919.6 and bought at 20926.4 at time: 09:40 for a profit/loss of ===-6.80000000000291
+2020/06/22: Bought at 21676.3 and sold at 21708.3 at time: 15:33 for a profit/loss of =========32.0
+2020/06/23: Short Sold at 21737.7 and bought at 21805.4 at time: 10:01 for a profit/loss of ===-67.70000000000073
+2020/06/24: Short Sold at 22250.1 and bought at 22264.5 at time: 09:32 for a profit/loss of ===-14.400000000001455
+2020/06/25: Bought at 21185.2 and sold at 21506.2 at time: 15:33 for a profit/loss of =========321.0
+2020/06/26: Bought at 21784.7 and sold at 21664.3 at time: 09:37 for a profit/loss of =========-120.40000000000146
+2020/06/29: Short Sold at 21118.7 and bought at 21359.0 at time: 15:34 for a profit/loss of ===-240.29999999999927
+2020/06/30: Bought at 21637.8 and sold at 21468.2 at time: 10:20 for a profit/loss of =========-169.59999999999854
+2020/07/01: Bought at 21471.8 and sold at 21977.6 at time: 15:33 for a profit/loss of =========505.7999999999993
+2020/07/02: Bought at 22258.7 and sold at 22123.2 at time: 10:19 for a profit/loss of =========-135.5
+2020/07/03: Short Sold at 21977.1 and bought at 21852.4 at time: 15:33 for a profit/loss of ===124.69999999999709
+2020/07/06: Bought at 22313.1 and sold at 22190.7 at time: 10:27 for a profit/loss of =========-122.39999999999782
+2020/07/07: Short Sold at 22075.8 and bought at 22457.6 at time: 13:16 for a profit/loss of ===-381.7999999999993
+2020/07/08: Bought at 22813.0 and sold at 22695.7 at time: 09:52 for a profit/loss of =========-117.29999999999927
+2020/07/09: Short Sold at 22689.7 and bought at 22948.7 at time: 14:51 for a profit/loss of ===-259.0
+2020/07/10: Bought at 22794.3 and sold at 22676.8 at time: 10:32 for a profit/loss of =========-117.5
+2020/07/13: Short Sold at 22531.4 and bought at 22089.3 at time: 15:34 for a profit/loss of ===442.1000000000022
+2020/07/14: Short Sold at 21656.6 and bought at 21392.2 at time: 15:33 for a profit/loss of ===264.3999999999978
+2020/07/15: Bought at 21663.4 and sold at 21534.8 at time: 14:22 for a profit/loss of =========-128.60000000000218
+2020/07/16: Short Sold at 21038.8 and bought at 21597.2 at time: 15:33 for a profit/loss of ===-558.4000000000015
+2020/07/17: Bought at 21816.7 and sold at 21704.4 at time: 09:46 for a profit/loss of =========-112.29999999999927
+2020/07/20: Bought at 22479.2 and sold at 22359.6 at time: 10:40 for a profit/loss of =========-119.60000000000218
+2020/07/21: Bought at 22730.5 and sold at 22610.1 at time: 10:08 for a profit/loss of =========-120.40000000000146
+2020/07/22: Short Sold at 22839.3 and bought at 22846.3 at time: 09:33 for a profit/loss of ===-7.0
+2020/07/23: Bought at 22939.2 and sold at 23083.9 at time: 15:33 for a profit/loss of =========144.70000000000073
+2020/07/24: Short Sold at 22689.4 and bought at 22662.1 at time: 15:33 for a profit/loss of ===27.30000000000291
+2020/07/27: Short Sold at 22116.9 and bought at 21848.8 at time: 15:33 for a profit/loss of ===268.1000000000022
+2020/07/28: Bought at 22088.0 and sold at 21974.0 at time: 09:47 for a profit/loss of =========-114.0
+2020/07/29: Bought at 22294.2 and sold at 22170.7 at time: 09:37 for a profit/loss of =========-123.5
+2020/07/30: Short Sold at 22101.5 and bought at 21646.8 at time: 15:33 for a profit/loss of ===454.7000000000007
+2020/07/31: Bought at 21769.7 and sold at 21652.3 at time: 09:58 for a profit/loss of =========-117.40000000000146
+2020/08/03: Short Sold at 21279.2 and bought at 21072.1 at time: 15:34 for a profit/loss of ===207.10000000000218
+2020/08/04: Short Sold at 21066.2 and bought at 21490.5 at time: 15:33 for a profit/loss of ===-424.2999999999993
+2020/08/05: Bought at 21771.1 and sold at 21661.3 at time: 11:49 for a profit/loss of =========-109.79999999999927
+2020/08/06: Short Sold at 21515.1 and bought at 21890.6 at time: 12:58 for a profit/loss of ===-375.5
+2020/08/07: Bought at 21605.5 and sold at 21754.0 at time: 15:33 for a profit/loss of =========148.5
+2020/08/10: Bought at 22047.6 and sold at 21916.1 at time: 10:27 for a profit/loss of =========-131.5
+2020/08/11: Bought at 22239.1 and sold at 22110.7 at time: 10:01 for a profit/loss of =========-128.39999999999782
+2020/08/12: Bought at 22156.1 and sold at 22264.0 at time: 15:33 for a profit/loss of =========107.90000000000146
+2020/08/13: Short Sold at 22334.7 and bought at 22357.3 at time: 10:18 for a profit/loss of ===-22.599999999998545
+2020/08/14: Short Sold at 22218.0 and bought at 21679.4 at time: 15:33 for a profit/loss of ===538.5999999999985
+2020/08/17: Short Sold at 21690.3 and bought at 21700.8 at time: 15:34 for a profit/loss of ===-10.5
+2020/08/18: Bought at 21809.6 and sold at 22170.6 at time: 15:33 for a profit/loss of =========361.0
+2020/08/19: Bought at 22390.4 and sold at 22263.2 at time: 11:16 for a profit/loss of =========-127.20000000000073
+2020/08/20: Bought at 22053.3 and sold at 21920.7 at time: 12:36 for a profit/loss of =========-132.59999999999854
+2020/08/21: Bought at 22312.1 and sold at 22299.6 at time: 15:34 for a profit/loss of =========-12.5
+2020/08/24: Bought at 22656.6 and sold at 22833.0 at time: 15:33 for a profit/loss of =========176.40000000000146
+2020/08/25: Bought at 23099.3 and sold at 22976.4 at time: 10:40 for a profit/loss of =========-122.89999999999782
+2020/08/26: Bought at 23296.8 and sold at 23172.4 at time: 12:26 for a profit/loss of =========-124.39999999999782
+2020/08/27: Bought at 23651.6 and sold at 23600.3 at time: 15:33 for a profit/loss of =========-51.29999999999927
+2020/08/28: Bought at 23914.4 and sold at 24523.8 at time: 15:33 for a profit/loss of =========609.3999999999978
+2020/08/31: Short Sold at 24747.3 and bought at 24828.4 at time: 09:32 for a profit/loss of ===-81.10000000000218
+2020/09/01: Bought at 24170.3 and sold at 24043.3 at time: 09:40 for a profit/loss of =========-127.0
+2020/09/02: Short Sold at 23628.5 and bought at 23874.6 at time: 15:33 for a profit/loss of ===-246.09999999999854
+2020/09/03: Short Sold at 23785.8 and bought at 23530.8 at time: 15:33 for a profit/loss of ===255.0
+2020/09/04: Bought at 23128.9 and sold at 22960.7 at time: 14:41 for a profit/loss of =========-168.20000000000073
+2020/09/07: Bought at 23070.2 and sold at 22924.4 at time: 10:46 for a profit/loss of =========-145.79999999999927
+2020/09/08: Bought at 22997.2 and sold at 22858.2 at time: 14:21 for a profit/loss of =========-139.0
+2020/09/09: Short Sold at 22394.9 and bought at 22267.0 at time: 15:33 for a profit/loss of ===127.90000000000146
+2020/09/10: Short Sold at 22382.3 and bought at 22466.2 at time: 15:33 for a profit/loss of ===-83.90000000000146
+2020/09/11: Short Sold at 22402.3 and bought at 22479.9 at time: 15:33 for a profit/loss of ===-77.60000000000218
+2020/09/14: Short Sold at 22624.4 and bought at 22101.3 at time: 15:34 for a profit/loss of ===523.1000000000022
+2020/09/15: Bought at 22264.8 and sold at 22145.8 at time: 10:04 for a profit/loss of =========-119.0
+2020/09/16: Short Sold at 22370.6 and bought at 22394.8 at time: 09:42 for a profit/loss of ===-24.200000000000728
+2020/09/17: Bought at 22374.6 and sold at 22320.3 at time: 15:33 for a profit/loss of =========-54.29999999999927
+2020/09/18: Short Sold at 22338.0 and bought at 22031.1 at time: 15:33 for a profit/loss of ===306.90000000000146
+2020/09/21: Short Sold at 21905.6 and bought at 21366.8 at time: 15:34 for a profit/loss of ===538.7999999999993
+2020/09/22: Short Sold at 21179.8 and bought at 21139.1 at time: 15:33 for a profit/loss of ===40.70000000000073
+2020/09/23: Short Sold at 21176.5 and bought at 21178.5 at time: 15:33 for a profit/loss of ===-2.0
+2020/09/24: Short Sold at 20805.8 and bought at 20456.8 at time: 15:33 for a profit/loss of ===349.0
+2020/09/25: Short Sold at 20519.8 and bought at 20982.3 at time: 15:33 for a profit/loss of ===-462.5
+2020/09/28: Bought at 21283.1 and sold at 21665.5 at time: 15:32 for a profit/loss of =========382.40000000000146
+2020/09/29: Short Sold at 21587.9 and bought at 21610.1 at time: 09:32 for a profit/loss of ===-22.19999999999709
+2020/09/30: Short Sold at 21158.4 and bought at 21389.9 at time: 10:30 for a profit/loss of ===-231.5
+2020/10/01: Bought at 21934.7 and sold at 22246.0 at time: 15:33 for a profit/loss of =========311.2999999999993
+2020/10/05: Bought at 22693.5 and sold at 22574.0 at time: 11:40 for a profit/loss of =========-119.5
+2020/10/06: Short Sold at 22574.6 and bought at 22813.1 at time: 14:36 for a profit/loss of ===-238.5
+2020/10/07: Bought at 22893.2 and sold at 22777.2 at time: 11:03 for a profit/loss of =========-116.0
+2020/10/08: Bought at 23223.5 and sold at 23077.2 at time: 14:36 for a profit/loss of =========-146.29999999999927
+2020/10/09: Short Sold at 23237.6 and bought at 23349.1 at time: 10:08 for a profit/loss of ===-111.5
+2020/10/12: Short Sold at 23894.2 and bought at 23907.1 at time: 10:28 for a profit/loss of ===-12.899999999997817
+2020/10/13: Bought at 23655.9 and sold at 23508.2 at time: 12:47 for a profit/loss of =========-147.70000000000073
+2020/10/14: Short Sold at 23232.1 and bought at 23792.9 at time: 14:57 for a profit/loss of ===-560.8000000000029
+2020/10/15: Short Sold at 23639.6 and bought at 23778.8 at time: 09:38 for a profit/loss of ===-139.20000000000073
+2020/10/16: Bought at 23389.2 and sold at 23209.4 at time: 09:49 for a profit/loss of =========-179.79999999999927
+2020/10/19: Bought at 23908.5 and sold at 24266.8 at time: 15:32 for a profit/loss of =========358.2999999999993
+2020/10/20: Bought at 24222.6 and sold at 24094.9 at time: 09:57 for a profit/loss of =========-127.69999999999709
+2020/10/21: Bought at 24733.1 and sold at 24591.8 at time: 13:17 for a profit/loss of =========-141.29999999999927
+2020/10/22: Short Sold at 24394.0 and bought at 24484.2 at time: 15:32 for a profit/loss of ===-90.20000000000073
+2020/10/23: Short Sold at 24609.3 and bought at 24478.3 at time: 15:32 for a profit/loss of ===131.0
+2020/10/26: Short Sold at 24312.8 and bought at 24075.4 at time: 15:32 for a profit/loss of ===237.39999999999782
+2020/10/27: Bought at 24359.7 and sold at 24236.1 at time: 09:50 for a profit/loss of =========-123.60000000000218
+2020/10/28: Short Sold at 24508.2 and bought at 24505.8 at time: 10:02 for a profit/loss of ===2.400000000001455
+2020/10/29: Bought at 24122.3 and sold at 23987.9 at time: 10:36 for a profit/loss of =========-134.39999999999782
+2020/10/30: Bought at 24230.0 and sold at 24089.3 at time: 10:51 for a profit/loss of =========-140.70000000000073
+2020/11/02: Bought at 24376.9 and sold at 24892.5 at time: 15:32 for a profit/loss of =========515.5999999999985
+2020/11/03: Bought at 25473.8 and sold at 25333.9 at time: 09:48 for a profit/loss of =========-139.89999999999782
+2020/11/04: Short Sold at 25436.4 and bought at 25644.9 at time: 09:42 for a profit/loss of ===-208.5
+2020/11/05: Short Sold at 26078.6 and bought at 26111.9 at time: 09:32 for a profit/loss of ===-33.30000000000291
+2020/11/06: Bought at 26354.5 and sold at 26798.9 at time: 15:32 for a profit/loss of =========444.40000000000146
+2020/11/09: Bought at 27370.1 and sold at 27221.8 at time: 10:43 for a profit/loss of =========-148.29999999999927
+2020/11/10: Bought at 28174.6 and sold at 28606.0 at time: 15:32 for a profit/loss of =========431.40000000000146
+2020/11/11: Bought at 28956.2 and sold at 28790.8 at time: 09:59 for a profit/loss of =========-165.40000000000146
+2020/11/12: Short Sold at 28437.7 and bought at 28278.8 at time: 15:32 for a profit/loss of ===158.90000000000146
+2020/11/13: Short Sold at 27715.8 and bought at 28465.7 at time: 15:32 for a profit/loss of ===-749.9000000000015
+2020/11/14: Short Sold at 28614.8 and bought at 28594.3 at time: 19:19 for a profit/loss of ===20.5
+2020/11/17: Bought at 28969.6 and sold at 28758.0 at time: 10:39 for a profit/loss of =========-211.59999999999854
+2020/11/18: Bought at 29426.3 and sold at 29277.9 at time: 09:40 for a profit/loss of =========-148.39999999999782
+2020/11/19: Bought at 29517.9 and sold at 29368.2 at time: 13:02 for a profit/loss of =========-149.70000000000073
+2020/11/20: Short Sold at 28731.7 and bought at 29236.0 at time: 15:33 for a profit/loss of ===-504.2999999999993
+2020/11/23: Short Sold at 29286.8 and bought at 29024.2 at time: 15:32 for a profit/loss of ===262.59999999999854
+2020/11/24: Bought at 29444.8 and sold at 29737.3 at time: 15:32 for a profit/loss of =========292.5
+2020/11/25: Bought at 30173.2 and sold at 30021.5 at time: 10:27 for a profit/loss of =========-151.70000000000073
+2020/11/26: Short Sold at 29092.1 and bought at 29549.8 at time: 15:32 for a profit/loss of ===-457.7000000000007
+2020/11/27: Short Sold at 29425.2 and bought at 29609.1 at time: 15:32 for a profit/loss of ===-183.89999999999782
+2020/12/01: Bought at 29794.5 and sold at 29817.8 at time: 15:32 for a profit/loss of =========23.299999999999272
+2020/12/02: Short Sold at 29672.3 and bought at 29463.2 at time: 15:32 for a profit/loss of ===209.09999999999854
+2020/12/03: Short Sold at 29540.8 and bought at 29448.8 at time: 15:32 for a profit/loss of ===92.0
+2020/12/04: Bought at 29625.3 and sold at 29473.5 at time: 12:57 for a profit/loss of =========-151.79999999999927
+2020/12/07: Bought at 30170.3 and sold at 30017.8 at time: 10:01 for a profit/loss of =========-152.5
+2020/12/08: Bought at 30309.4 and sold at 30137.2 at time: 11:02 for a profit/loss of =========-172.20000000000073
+2020/12/09: Bought at 30457.8 and sold at 30709.4 at time: 15:32 for a profit/loss of =========251.60000000000218
+2020/12/10: Short Sold at 30463.4 and bought at 30510.3 at time: 15:32 for a profit/loss of ===-46.89999999999782
+2020/12/11: Bought at 30770.6 and sold at 30610.8 at time: 11:21 for a profit/loss of =========-159.79999999999927
+2020/12/14: Short Sold at 30705.6 and bought at 30745.9 at time: 15:32 for a profit/loss of ===-40.30000000000291
+2020/12/15: Short Sold at 30563.3 and bought at 30691.1 at time: 15:32 for a profit/loss of ===-127.79999999999927
+2020/12/16: Short Sold at 30794.4 and bought at 30698.4 at time: 15:32 for a profit/loss of ===96.0
+2020/12/17: Bought at 30785.1 and sold at 30847.1 at time: 15:32 for a profit/loss of =========62.0
+2020/12/18: Short Sold at 30665.3 and bought at 30714.7 at time: 15:32 for a profit/loss of ===-49.400000000001455
+2020/12/21: Short Sold at 30282.4 and bought at 29456.4 at time: 15:32 for a profit/loss of ===826.0
+2020/12/22: Short Sold at 29327.3 and bought at 29625.9 at time: 15:32 for a profit/loss of ===-298.6000000000022
+2020/12/23: Short Sold at 29446.0 and bought at 29883.3 at time: 15:32 for a profit/loss of ===-437.2999999999993
+2020/12/24: Bought at 30262.8 and sold at 30402.2 at time: 15:32 for a profit/loss of =========139.40000000000146
+2020/12/28: Bought at 30793.1 and sold at 30880.9 at time: 15:32 for a profit/loss of =========87.80000000000291
+2020/12/29: Bought at 31291.8 and sold at 31049.8 at time: 10:47 for a profit/loss of =========-242.0
+2020/12/30: Short Sold at 31113.1 and bought at 31303.1 at time: 15:31 for a profit/loss of ===-190.0
+2020/12/31: Bought at 31367.1 and sold at 31204.5 at time: 11:54 for a profit/loss of =========-162.59999999999854
+
+Total Annual Profit/Loss =====================================================================-6790.399999999994
